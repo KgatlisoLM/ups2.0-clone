@@ -1,4 +1,4 @@
-Before cloning and runnning project make sure you have:
+Before cloning and running project make sure you have:
 
 Node.js installed 
 Android studio 
