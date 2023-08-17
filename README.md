@@ -2,7 +2,7 @@ Before cloning and runnning project make sure you have:
 
 Node.js installed 
 Android studio 
-Vs Code 
+VS Code 
 ==============================================================
 after cloning the project 
 
