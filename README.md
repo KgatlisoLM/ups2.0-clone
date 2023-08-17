@@ -3,14 +3,15 @@ Before cloning and runnning project make sure you have:
 Node.js installed 
 Android studio 
 VS Code 
-==============================================================
+---------------------------------------------------------------------
 after cloning the project 
 
 before running the project make sure android emulator or ios emulator it's running.
 in the project directory> npm run --android  or --ios 
 
-
-==============================================================
+----------------------------------------------------------------------
+Screenshoots 
+------------------
 
 
 ![UPSHome](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/9708b7bf-9908-44be-ba6f-361947f731d1)
