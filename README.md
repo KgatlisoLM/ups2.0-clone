@@ -14,8 +14,7 @@ in the project directory> npm run android  or ios
 Screenshots 
 ------------------
 
-
-![UPSHome](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/9708b7bf-9908-44be-ba6f-361947f731d1)
-![UPSDeliveries](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/fb72b103-c1b5-4d2e-b95c-f49b72dee239)
-![UPSOrders](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/6eb2ca53-456c-4d67-b1f2-770769de32ca)
-![UPSOrdersDelivery](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/decb959d-f283-464b-abdb-61579f09abe9)
+![UPSHome](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/27973af1-ca31-4645-9479-bba874b36384)
+![UPSDeliveries](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/074a4b9b-ea25-4d91-aaca-ea2124469e6c)
+![UPSOrders](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/14e9046e-fe02-4eaf-a737-62d2e49175b1)
+![UPSOrdersDelivery](https://github.com/KgatlisoLM/ups2.0-clone/assets/39485154/d38f3a29-fb83-4fbe-beba-8198c5590558)
